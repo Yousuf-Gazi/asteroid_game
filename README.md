@@ -1,4 +1,3 @@
-
 # 🪐 Asteroid Game
 
 A simple 2D space shooter game built with Python and Pygame — destroy incoming asteroids before they hit your ship!
@@ -22,8 +21,7 @@ Avoid collisions and shoot asteroids to survive!
 
 ## 📹 Gameplay Demo
 
-[▶️ Watch the Demo](#)  
-<!-- Replace `#` with your YouTube/GitHub video link or embed a GIF below -->
+[▶️ Watch the Demo](https://youtu.be/IlEWcfazVYU)  
 
 ---
 
